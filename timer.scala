@@ -1,6 +1,6 @@
 object Timer{
 	def count(){
-		println("Hello")
+		println("Hello World")
 	}
 	def main(){
 		count()
