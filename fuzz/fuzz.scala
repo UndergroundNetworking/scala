@@ -7,6 +7,9 @@ object fuzz{
 	def main(args:Array[String]){
 		openTheServer(4321)
 	}
+	def new(){
+		println("hello world")
+	}
 	def openTheServer(spt:Int){
 		println("Starting a server on port " + spt.toString)
 		val server = new ServerSocket(spt)
