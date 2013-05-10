@@ -16,7 +16,4 @@ object getRequest{
 		println(x)
 
 	}
-	def new(){
-		println("hello world")
-	}
 }
