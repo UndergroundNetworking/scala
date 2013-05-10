@@ -1,4 +1,3 @@
-//Another test comment
 object fuzz{
 	import java.net._
 	import java.io._
