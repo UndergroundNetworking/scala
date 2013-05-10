@@ -1,3 +1,4 @@
+//this is a test
 object fuzz{
 	import java.net._
 	import java.io._
